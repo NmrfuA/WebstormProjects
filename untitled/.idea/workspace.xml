@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65a27e12-e56f-403b-b277-99a746dd9351" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ftAbhgSFyJnZrDwwfcqEoorIjT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-darwin-x64/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/f" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/image" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.b">
+    <configuration name="b" type="JavascriptDebugType" uri="http://localhost:63342/untitled/guessNumber.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/untitled/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="guessNumber.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="guessNumber.js" working-dir="$PROJECT_DIR$/scripts">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.b" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.guessNumber.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.guessNumber.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65a27e12-e56f-403b-b277-99a746dd9351" name="Default Changelist" comment="" />
+      <created>1597027088761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597027088761</updated>
+      <workItem from="1597027090148" duration="3766000" />
+      <workItem from="1597908330087" duration="14381000" />
+      <workItem from="1598511887767" duration="6272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="308" key="#Web_Browsers" timestamp="1597908578169">
+      <screen x="0" y="23" width="1680" height="951" />
+    </state>
+    <state x="618" y="308" key="#Web_Browsers/0.23.1680.951@0.23.1680.951" timestamp="1597908578169" />
+    <state x="304" y="156" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597990764948">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="156" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1597990764948" />
+    <state x="304" y="164" width="1071" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.951@0.23.1680.951" timestamp="1597913636573" />
+    <state x="304" y="165" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.961@0.23.1680.961" timestamp="1597027549583" />
+    <state width="1659" height="294" key="GridCell.Tab.0.bottom" timestamp="1598492293139">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="294" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598492293139" />
+    <state width="1659" height="294" key="GridCell.Tab.0.center" timestamp="1598492293138">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="294" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598492293138" />
+    <state width="1659" height="294" key="GridCell.Tab.0.left" timestamp="1598492293137">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="294" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598492293137" />
+    <state width="1659" height="294" key="GridCell.Tab.0.right" timestamp="1598492293138">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="294" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598492293138" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1597910287858">
+      <screen x="0" y="23" width="1680" height="951" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1680.951@0.23.1680.951" timestamp="1597910287858" />
+    <state x="477" y="302" key="chooseDestDirectoryDialog" timestamp="1597911251232">
+      <screen x="0" y="23" width="1680" height="951" />
+    </state>
+    <state x="477" y="302" key="chooseDestDirectoryDialog/0.23.1680.951@0.23.1680.951" timestamp="1597911251232" />
+    <state x="392" y="150" width="615" height="735" key="find.popup" timestamp="1597911629468">
+      <screen x="0" y="23" width="1680" height="951" />
+    </state>
+    <state x="392" y="150" width="615" height="735" key="find.popup/0.23.1680.951@0.23.1680.951" timestamp="1597911629468" />
+    <state x="926" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1598513751129">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="926" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1598513751129" />
+  </component>
+</project>
